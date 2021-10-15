@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Mikiyas Eyob
-- 👀 I’m interested in Computers Technology and Space science
-- 🌱 I’m currently learning to be a software engineer.
+Hi there, I'm Mikiyas Eyob - aka realmikiyas 👋
+Website Twitter Follow
 
-<!---
-realmikiyas/realmikiyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Son, Brother, Developer, and Friend!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2021 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
+Connect with me:
+ YouTubeMikiyas Eyob | Twitterrealmikiyas | LinkedInrealmikiyas | Instagramrealmikiyas
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
+
