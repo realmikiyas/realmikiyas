@@ -1,5 +1,4 @@
 Hi there, I'm Mikiyas Eyob - aka realmikiyas 👋
-Website Twitter Follow
 
 I'm a Son, Brother, Developer, and Friend!!
 🌱 I’m currently learning everything 🤣
